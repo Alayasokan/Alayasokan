@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studying at College of Engineering, Vadakara <br>👯 I’m looking to collaborate on Mulearn<br>🤝 I’m looking for help with developers <br>🌱 I’m currently learning the Game development, html, Android, C, C++.<br>💬 Ask me about coding<br>⚡ Fun fact: I'm a CSE student 
+🔭 I’m currently studying at College of Engineering, Vadakara <br>👯 I’m looking to collaborate with Mulearn<br>🤝 I’m looking for help with developers <br>🌱 I’m currently learning the Game development, html, Android, C, C++.<br>💬 Ask me about coding<br>⚡ Fun fact: I'm a CSE student 
 
 
 ## 🌐 Socials:
