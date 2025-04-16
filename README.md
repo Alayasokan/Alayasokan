@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studying Computer Science & Engineering at College of Engineering, Vadakara <br>👯 Now I collaborate with Gtech Mulearn<br>🤝 Tackling problems and keep finding the solutions <br>🌱 I’m currently learning the Game development, html, CSS, JS, Android, C, C++.<br>💬 Ask me about coding<br>⚡ Fun fact: Nobody wants to know how programmers work hard :)
-
+🔭 I’m currently studying Computer Science & Engineering at College of Engineering, Vadakara <br>👯 Now I collaborate with Gtech Mulearn<br>🤝 Tackling problems and keep finding the solutions <br>🌱 I’m currently learning the Game development, html, CSS, JS, Android, C, C++, ML, AI.<br>💬 Ask me about coding<br>⚡ Fun fact: Nobody wants to know how programmers work hard :)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alay-ashokan-25058a248) 
