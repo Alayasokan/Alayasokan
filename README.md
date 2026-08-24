@@ -1,11 +1,27 @@
-# 💫 About Me:
-🔭 I’m a graduate of Computer Science and Engineering from the College of Engineering, Vadakara.<br> 🌱 I’m currently learning Machine Learning and Artificial Intelligence.<br>⚡ Fun fact: Programmers don’t fear hard problems—they fear the words, “It works on my machine" :)
+# 💫 About Me
 
-## 🌐 Socials:
-[![LinkedIn](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2JdsjUOaQTI296jvXA6-zjOK2tQDEfI5m_ADFvi45hwBr-e6Pz9Cch6yh&s=10)](https://www.linkedin.com/in/alay-ashokan) 
+🔭 I’m a graduate of **Computer Science and Engineering** from the **College of Engineering, Vadakara**.
+🌱 I’m currently learning **Machine Learning and Artificial Intelligence**.
+⚡ **Fun fact:** Programmers don’t fear hard problems—they fear the words, *“It works on my machine.”* 😄
 
-# 💻 Tech Stack:
-![C](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg) ![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) ![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg) ![Linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg)
+## 🌐 Socials
+
+<a href="https://www.linkedin.com/in/alay-ashokan">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
+</a>
+
+## 💻 Tech Stack
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" height="40" alt="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" width="40" height="40" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
+</p>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Alayasokan&theme=vue&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Alayasokan&theme=vue&hide_border=false)<br/>
