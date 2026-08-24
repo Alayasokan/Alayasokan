@@ -1,7 +1,7 @@
 # 💫 About Me
 
 🔭 I’m a graduate of **Computer Science and Engineering** from the **College of Engineering, Vadakara**. <br>
-🌱 I’m currently learning **Machine Learning and Artificial Intelligence**. <br>
+🌱 I’m currently working on **Machine Learning and Artificial Intelligence**. <br>
 ⚡ **Fun fact:** Programmers don’t fear hard problems—they fear the words, *“It works on my machine.”* 😄
 
 ## 🌐 Socials
